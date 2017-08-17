@@ -10,7 +10,7 @@ using Tridion.ContentManager.Publishing.Rendering;
 using Tridion.ContentManager.Templating;
 using Tridion.ContentManager.Templating.Assembly;
 
-namespace Emaar.Templating
+namespace Tridion.Templating
 {
     /// <summary>
     /// This class contains useful helper functions for typical things you might want to do in a
