@@ -8,7 +8,7 @@ using Tridion.ContentManager.Templating;
 using Tridion.ContentManager.Templating.Assembly;
 using System.Web;
 
-namespace Emaar.Templating
+namespace Tridion.Templating
 {
     /// <summary>
     /// Converts TCDL Markup for Component Links to a custom ComponentLink control that removes trailing index.aspx/default.aspx from urls.
