@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Emaar.Templating
+namespace Tridion.Templating
 {
     public static class TridionConstants
     {
