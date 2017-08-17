@@ -16,14 +16,7 @@ namespace Tridion.Templating
     /// This class contains useful helper functions for typical things you might want to do in a
     /// template. It can be used as the base class for your own Template Building Blocks.
     ///  Use this abstract class to derive your new Template from.
-    /// </summary>
-    /// <author>
-    ///    SDL Tridion Professional Services
-    /// </author>
-    /// <date>
-    ///     created 31-January-2008
-    ///		updated: April-2012 
-    /// </date>	
+    /// </summary>   
     public abstract class TemplateBase : ITemplate, IDisposable
     {
         #region Private Members
