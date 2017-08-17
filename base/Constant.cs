@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Emaar.PierSeven.CMS.Base
+namespace Tridion.Extensions.ContentManager.Templating
 {
     public class CMSConstants
     {
