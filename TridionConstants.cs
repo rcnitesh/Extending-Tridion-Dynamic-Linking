@@ -14,7 +14,7 @@ namespace Tridion.Templating
 
         public const string TCDL_CUSTOM_COMPONENT_LINK_TAG_SKELETON = @"<{0}:ComponentLink runat=""server"" PageURI=""{1}"" ComponentURI=""{2}"" templateURI=""{3}"" addAnchor=""{4}"" LinkText=""{5}"" linkAttributes=""{6}"" textOnFail=""{7}""></{0}:ComponentLink>";        
 
-        public const string TCDL_CUSTOM_TAG_PREFIX = "emaar";
+        public const string TCDL_CUSTOM_TAG_PREFIX = "custom";
         public const string TCDL_TAG_ATTRIBUTE_ORIGIN = "origin";
         public const string TCDL_TAG_ATTRIBUTE_DESTINATION = "destination";
         public const string TCDL_TAG_ATTRIBUTE_LINKATTRIBUTES = "linkattributes";
