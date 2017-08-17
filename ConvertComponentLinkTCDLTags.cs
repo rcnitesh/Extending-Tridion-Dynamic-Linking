@@ -1,6 +1,6 @@
 ﻿/*
  * Date Created: 07.26.2017
- * Author: Web CMS Team <Web_CMSTeam@emaar.ae>
+ * Author: Nitesh <rc.nitesh@gmail.com>
  */
 using System;
 using System.Text.RegularExpressions;
