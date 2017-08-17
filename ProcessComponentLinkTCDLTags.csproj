@@ -40,19 +40,19 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="Tridion.Common">
-      <HintPath>..\..\..\..\..\..\..\CODES\Emaar.PierSeven.CMS.CSharpTBB\References\Tridion.Common.dll</HintPath>
+      <HintPath>\References\Tridion.Common.dll</HintPath>
     </Reference>
     <Reference Include="Tridion.ContentManager">
-      <HintPath>..\..\..\..\..\..\..\CODES\Emaar.PierSeven.CMS.CSharpTBB\References\Tridion.ContentManager.dll</HintPath>
+      <HintPath>\References\Tridion.ContentManager.dll</HintPath>
     </Reference>
     <Reference Include="Tridion.ContentManager.Common">
-      <HintPath>..\..\SyncChildComponentFields\SyncChildComponentFields\References\Tridion.ContentManager.Common.dll</HintPath>
+      <HintPath>\References\Tridion.ContentManager.Common.dll</HintPath>
     </Reference>
     <Reference Include="Tridion.ContentManager.Publishing">
-      <HintPath>..\..\..\..\..\..\..\CODES\Emaar.PierSeven.CMS.CSharpTBB\References\Tridion.ContentManager.Publishing.dll</HintPath>
+      <HintPath>\References\Tridion.ContentManager.Publishing.dll</HintPath>
     </Reference>
     <Reference Include="Tridion.ContentManager.Templating">
-      <HintPath>..\..\..\..\..\..\..\CODES\Emaar.PierSeven.CMS.CSharpTBB\References\Tridion.ContentManager.Templating.dll</HintPath>
+      <HintPath>\References\Tridion.ContentManager.Templating.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
